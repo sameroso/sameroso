@@ -1,17 +1,8 @@
 ### Hi there 👋
-## I'm Luiz Henrique
+## I'm Samer
 - I Live in 🇧🇷 , Belo Horizonte.
 - I am a student of Software Engineering at the Pontifical Catholic University of Minas Gerais 🧑‍💻
 - Focused on JavaScript, ReactJS and nodeJS studies 💻
-
-<style>
-  .x{
-  margin-left:0
-      }
-  .x:hover{
-      margin:left:10px
-  }
- </style>
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/luiz-henrique-9a41091b0/" target="_blank">
@@ -37,7 +28,7 @@
 
 
 ## interactions
-<div style="background-color:red;width:60px;height:60px" class="x"></div>
+<div style="background-color:red;width:60px;height:60px">oi</div>
 <div width="100%"
     <img src="http://github-readme-streak-stats.herokuapp.com?user=MogLuiz&theme=dark&hide_border=true&background=000000&fire=7E3ACE&ring=7E3ACE&currStreakLabel=FFFFFF)](https://git.io/streak-stats" width="49.75%"/>
     <img src="https://github-readme-stats.vercel.app/api?username=MogLuiz&count_private=true&theme=midnight-purple&hide_border=true" width="49.75%"/>
