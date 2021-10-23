@@ -6,7 +6,12 @@
 
 ## Articles
 
-- [useCallback e useMemo quando usar](https://www.linkedin.com/pulse/usecallback-e-usememo-quando-usar-luiz-henrique)
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@samerkkr/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@samerkkr/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@samekkr/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@samerkkr/1" alt="Recent Article 1"> 
+
+
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/samer-rola-frontend/" target="_blank">
@@ -25,16 +30,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Css" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="max-width:100%;"></img>
 
 
 ## interactions
 
 <div width="100%">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=MogLuiz&theme=dark&hide_border=true&background=000000&fire=7E3ACE&ring=7E3ACE&currStreakLabel=FFFFFF)](https://git.io/streak-stats" width="49.75%"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=MogLuiz&count_private=true&theme=midnight-purple&hide_border=true" width="49.75%"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=sameroso&theme=dark&hide_border=true&background=000000&fire=7E3ACE&ring=7E3ACE&currStreakLabel=FFFFFF)](https://git.io/streak-stats" width="49.75%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=sameroso&count_private=true&theme=midnight-purple&hide_border=true" width="49.75%"/>
 </div>
 
 
